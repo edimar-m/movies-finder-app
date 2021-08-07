@@ -1,0 +1,58 @@
+.movie-list
+    width: 90%
+    margin: 0 auto
+    margin-top: 70px
+    border: solid 4px #2c27ce 
+    border-radius: 10px
+
+.ant-list-header
+    background: #2c27ce 
+    text-align: center
+    h2
+        color: white
+        font-family: 'Bebas Neue', cursive
+        font-size: 1.5rem
+
+.ant-list-items
+    max-height: 65vh
+    overflow: scroll
+
+.movie-list__movie
+    .ant-list-item-meta
+        align-items: center
+    .ant-list-item-meta-title
+        margin: 0
+        
+.ant-btn-primary 
+    background-color: #001529
+    border-color: #001529
+    color: #e896a9
+    &:hover, &:focus, &:active
+        background-color: #cbd337
+        border-color: #cbd337
+
+.ant-list-items::-webkit-scrollbar
+    width: 6px
+   
+.ant-list-items::-webkit-scrollbar-thumb 
+    background: #001529
+
+@media ( max-width: 480px )
+    .ant-list-item-meta-title 
+        font-size: 0.9rem
+    .ant-icon svg
+        font-size: 10px
+    .ant-btn-icon-only
+        height: 1.5
+        line-height: 0.5rem
+    .ant-list-items, .movie-list
+        margin: 2rem auto 
+        padding: 0
+        font-size: 1.2rem
+    .movie-list__movie
+        padding: 4px
+ 
+@media ( max-width: 800px )
+    .ant-list-items
+        height: 60vh
+            

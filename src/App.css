@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Teko', sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+.header{
+  z-index: 100;
+}

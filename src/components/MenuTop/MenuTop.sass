@@ -1,0 +1,68 @@
+.ant-layout-header
+    height: 65px
+    
+.ant-menu
+    width: 40%
+
+.menu-top
+    display: flex
+    justify-content: flex-end
+    width: 100%
+    height: inherit
+    &__logo
+        display: flex
+        margin-right: 10px
+        width: 70px
+        margin: 5px
+
+.logo-menu
+    background-image: url('../../assets/logo-oscar.png')
+    width: 100%
+    background-repeat: no-repeat
+    background-position: center
+    background-size: contain
+
+.ant-menu.ant-menu-dark .ant-menu-item-selected 
+    background-color: #2c27ce
+    color: #FFFFFF
+    font-family: 'Bebas Neue', cursive
+
+.ant-menu-dark.ant-menu-horizontal > .ant-menu-item:hover 
+    background-color: #2c27ce
+    color: #FFFFFF
+    font-family: 'Bebas Neue', cursive
+
+.ant-menu.ant-menu-dark, .ant-menu-dark .ant-menu-sub
+    background-color: #e896a9
+    font-family: 'Bebas Neue', cursive
+    li
+        &:hover
+            background-color: #2c27ce
+
+.ant-menu-item
+    font-size: 1.2rem
+    padding-top: 15px
+
+.ant-menu-submenu-title
+    margin-right: 150px
+
+@media ( max-width: 425px )
+    .ant-menu
+        width: 100%
+
+    .menu-top
+        display: flex
+        justify-content: center
+    
+@media ( max-width: 350px )
+
+    .ant-menu-item
+        font-size: 1rem
+    .div.logo-menu
+        width: 100px
+    .ant-layout-header 
+        padding-left: 20px
+
+    
+
+      
