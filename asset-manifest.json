@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/movies-finder-app/static/css/main.6c08471c.chunk.css",
+    "main.js": "/movies-finder-app/static/js/main.1084b680.chunk.js",
+    "main.js.map": "/movies-finder-app/static/js/main.1084b680.chunk.js.map",
+    "runtime-main.js": "/movies-finder-app/static/js/runtime-main.eac18002.js",
+    "runtime-main.js.map": "/movies-finder-app/static/js/runtime-main.eac18002.js.map",
+    "static/css/2.c09b5ca6.chunk.css": "/movies-finder-app/static/css/2.c09b5ca6.chunk.css",
+    "static/js/2.34537686.chunk.js": "/movies-finder-app/static/js/2.34537686.chunk.js",
+    "static/js/2.34537686.chunk.js.map": "/movies-finder-app/static/js/2.34537686.chunk.js.map",
+    "index.html": "/movies-finder-app/index.html",
+    "static/css/2.c09b5ca6.chunk.css.map": "/movies-finder-app/static/css/2.c09b5ca6.chunk.css.map",
+    "static/css/main.6c08471c.chunk.css.map": "/movies-finder-app/static/css/main.6c08471c.chunk.css.map",
+    "static/js/2.34537686.chunk.js.LICENSE.txt": "/movies-finder-app/static/js/2.34537686.chunk.js.LICENSE.txt",
+    "static/media/MenuTop.sass": "/movies-finder-app/static/media/logo-oscar.98a46f31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eac18002.js",
+    "static/css/2.c09b5ca6.chunk.css",
+    "static/js/2.34537686.chunk.js",
+    "static/css/main.6c08471c.chunk.css",
+    "static/js/main.1084b680.chunk.js"
+  ]
+}
