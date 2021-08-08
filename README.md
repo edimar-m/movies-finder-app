@@ -30,7 +30,7 @@
 ***
 ## Agradecimientos🙌
 ***
-### Agradezco a mi profesor, [Jonh Parra](https://github.com/Jonhks) y a [Leydy](https://github.com/leydyk93/), por su ayuda siempre que lo necesitamos.
+### Agradezco a mi profesor, [Jonh Parra](https://github.com/Jonhks) y a [Leydy](https://github.com/leydyk93/),por su ayuda siempre que lo necesitamos.
 
 ***
 ### Hecho por [Edimar Morles](https://github.com/edimar-m)💗.
