@@ -25,12 +25,12 @@
 ***
 ## Este es el resultado final del proyecto:
 
-![images](https://github.com/edimar-m/movies-finder-app/blob/master/src/assets/screencapture-movies-finder-app-.png)
+![images](https://github.com/edimar-m/movies-finder-app/blob/master/public/screencapture-movies-finder.png)
 
 ***
 ## Agradecimientos🙌
 ***
-### Agradezco a mi profesor, [Jonh Parra](https://github.com/Jonhks) y a [Leydy](https://github.com/leydyk93/),por su ayuda siempre que lo necesitamos.
+### Agradezco a mi profesor, [Jonh Parra](https://github.com/Jonhks) y a [Leydy](https://github.com/leydyk93/), por su ayuda siempre que lo necesitamos.
 
 ***
 ### Hecho por [Edimar Morles](https://github.com/edimar-m)💗.
