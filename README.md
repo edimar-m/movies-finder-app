@@ -25,7 +25,7 @@
 ***
 ## Este es el resultado final del proyecto:
 
-![images](https://github.com/edimar-m/To-do-List/blob/master/images/screencapture-to-do-list.png)
+![images](https://github.com/edimar-m/movies-finder-app/blob/master/src/assets/screencapture-movies-finder-app-.png)
 
 ***
 ## Agradecimientos🙌
